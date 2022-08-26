@@ -1,0 +1,29 @@
+{
+  "doctorData": [],
+  "patientData": [
+    {
+      "name": "Jack Sparrow",
+      "gender": "Male",
+      "age": 25,
+      "medicine_Count": 4,
+      "medicines": [
+        {
+          "name": "Paracetamol",
+          "qty": 10
+        },
+        {
+          "name": "Dolo-650",
+          "qty": 5
+        },
+        {
+          "name": "CenaRest",
+          "qty": 4
+        },
+        {
+          "name": "Soft-P",
+          "qty": 3
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "mock11_backend",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Shubh-Pawar007/mock11_backEnd.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Shubh-Pawar007/mock11_backEnd/issues"
+  },
+  "homepage": "https://github.com/Shubh-Pawar007/mock11_backEnd#readme",
+  "dependencies": {
+    "json-server": "^0.17.0",
+    "nodemon": "^2.0.19"
+  }
+}
